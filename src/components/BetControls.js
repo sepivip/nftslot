@@ -1,5 +1,5 @@
 import React from 'react';
-import './BetControls.css';
+import '../styles/betcontrols.css';
 
 
 const BetControls = ({ betAmount, setBetAmount, balance }) => {
