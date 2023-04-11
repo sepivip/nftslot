@@ -27,6 +27,8 @@ const Game = () => {
   const paytable = [
     { minCount: 3, payout: 50 }, // Low-paying symbols
     { minCount: 3, payout: 100 }, // High-paying symbols
+    { minCount: 4, payout: 1000 }, // High-paying symbols
+    { minCount: 5, payout: 1000000}, // High-paying symbols
     // Add more symbols and payouts here
   ];
 
